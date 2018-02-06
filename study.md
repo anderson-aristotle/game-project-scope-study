@@ -2,8 +2,8 @@
 
 ## Required Readings
 
--   [Game Project](https://github.com/ga-wdi-boston/game-project)
--   [Game API](https://github.com/ga-wdi-boston/game-project-api)
+-   [Game Project](https://git.generalassemb.ly/ga-wdi-boston/game-project)
+-   [Game API](https://git.generalassemb.ly/ga-wdi-boston/game-project-api)
 -   [What is a User Story](https://www.mountaingoatsoftware.com/agile/user-stories)
 
 ## Deliverables
@@ -22,7 +22,7 @@ Submit detailed answers to the following in this file via a pull request:
 -   How you plan to keep your code modular.
 -   What creative spin will you add to your project?
 -   How will you use version control to backup / track your project?
--   Do you plan to attempt any of the bonuses?
+-   What additional features will you build if you have extra time?
 
 You may want to submit pictures for your wireframes and/or user stories.
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
